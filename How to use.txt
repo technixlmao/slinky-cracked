@@ -1,0 +1,11 @@
+injectable 1.8.9/1.7.10 cheat, works with vanilla/forge/lunar
+
+How To Use:
+
+1. Run slinkyloader.exe while ingame
+2. wait for it to load
+3. press rshift to open click-gui
+
+
+
+configs are located in C:\Users\YOURNAME\.slinkys
